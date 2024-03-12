@@ -1818,7 +1818,7 @@ onMounted(() => {
   });
   ScrollReveal().reveal(".kalender", {
     delay: 500,
-    reset: true,
+    reset: false,
     origin: "bottom",
   });
 
