@@ -203,7 +203,7 @@
         <h2 id="accordion-collapse-heading-1">
           <button
             type="button"
-            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 rounded-t-xl focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 rounded-t-xl focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-1"
             aria-expanded="false"
             aria-controls="accordion-collapse-body-1"
@@ -240,7 +240,7 @@
               <h2 id="accordion-nested-collapse-heading-1">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-1"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-1"
@@ -284,7 +284,7 @@
               <h2 id="accordion-nested-collapse-heading-2">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-2"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-2"
@@ -327,7 +327,7 @@
               <h2 id="accordion-nested-collapse-heading-3">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-3"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-3"
@@ -373,7 +373,7 @@
         <h2 id="accordion-collapse-heading-2">
           <button
             type="button"
-            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-2"
             aria-expanded="false"
             aria-controls="accordion-collapse-body-2"
@@ -413,7 +413,7 @@
               <h2 id="accordion-nested-collapse-heading-english-1">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-english-1"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-english-1"
@@ -457,7 +457,7 @@
               <h2 id="accordion-nested-collapse-heading-english-2">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-english-2"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-english-2"
@@ -501,7 +501,7 @@
               <h2 id="accordion-nested-collapse-heading-english-3">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-english-3"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-english-3"
@@ -545,7 +545,7 @@
         <h2 id="accordion-collapse-heading-3">
           <button
             type="button"
-            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-3"
             aria-expanded="false"
             aria-controls="accordion-collapse-body-3"
@@ -585,7 +585,7 @@
               <h2 id="accordion-nested-collapse-heading-komnas-1">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-komnas-1"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-komnas-1"
@@ -629,7 +629,7 @@
               <h2 id="accordion-nested-collapse-heading-komnas-2">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-komnas-2"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-komnas-2"
@@ -673,7 +673,7 @@
               <h2 id="accordion-nested-collapse-heading-komnas-3">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-komnas-3"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-komnas-3"
@@ -717,7 +717,7 @@
         <h2 id="accordion-collapse-heading-4">
           <button
             type="button"
-            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-4"
             aria-expanded="false"
             aria-controls="accordion-collapse-body-4"
@@ -757,7 +757,7 @@
               <h2 id="accordion-nested-collapse-heading-komgraf-1">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-komgraf-1"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-komgraf-1"
@@ -801,7 +801,7 @@
               <h2 id="accordion-nested-collapse-heading-komgraf-2">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-komgraf-2"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-komgraf-2"
@@ -845,7 +845,7 @@
               <h2 id="accordion-nested-collapse-heading-komgraf-3">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-komgraf-3"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-komgraf-3"
@@ -889,7 +889,7 @@
         <h2 id="accordion-collapse-heading-5">
           <button
             type="button"
-            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-5"
             aria-expanded="false"
             aria-controls="accordion-collapse-body-5"
@@ -929,7 +929,7 @@
               <h2 id="accordion-nested-collapse-heading-sisop-1">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-sisop-1"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-sisop-1"
@@ -973,7 +973,7 @@
               <h2 id="accordion-nested-collapse-heading-sisop-2">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-sisop-2"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-sisop-2"
@@ -1017,7 +1017,7 @@
               <h2 id="accordion-nested-collapse-heading-sisop-3">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-sisop-3"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-sisop-3"
@@ -1061,7 +1061,7 @@
         <h2 id="accordion-collapse-heading-6">
           <button
             type="button"
-            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-6"
             aria-expanded="false"
             aria-controls="accordion-collapse-body-6"
@@ -1098,7 +1098,7 @@
               <h2 id="accordion-nested-collapse-heading-pak-1">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-pak-1"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-pak-1"
@@ -1142,7 +1142,7 @@
               <h2 id="accordion-nested-collapse-heading-pak-2">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-pak-2"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-pak-2"
@@ -1186,7 +1186,7 @@
               <h2 id="accordion-nested-collapse-heading-pak-3">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-pak-3"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-pak-3"
@@ -1230,12 +1230,12 @@
         <h2 id="accordion-collapse-heading-7">
           <button
             type="button"
-            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-7"
             aria-expanded="false"
             aria-controls="accordion-collapse-body-7"
           >
-            <span>Komukasi Data</span>
+            <span>Komunikasi Data</span>
             <svg
               data-accordion-icon
               class="w-3 h-3 rotate-180 shrink-0"
@@ -1270,7 +1270,7 @@
               <h2 id="accordion-nested-collapse-heading-komdat-1">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-komdat-1"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-komdat-1"
@@ -1314,7 +1314,7 @@
               <h2 id="accordion-nested-collapse-heading-komdat-2">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-komdat-2"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-komdat-2"
@@ -1358,7 +1358,7 @@
               <h2 id="accordion-nested-collapse-heading-komdat-3">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-komdat-3"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-komdat-3"
@@ -1402,7 +1402,7 @@
         <h2 id="accordion-collapse-heading-8">
           <button
             type="button"
-            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-8"
             aria-expanded="false"
             aria-controls="accordion-collapse-body-8"
@@ -1439,7 +1439,7 @@
               <h2 id="accordion-nested-collapse-heading-kal-1">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-kal-1"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-kal-1"
@@ -1483,7 +1483,7 @@
               <h2 id="accordion-nested-collapse-heading-kal-2">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-kal-2"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-kal-2"
@@ -1527,7 +1527,7 @@
               <h2 id="accordion-nested-collapse-heading-kal-3">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-kal-3"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-kal-3"
@@ -1571,7 +1571,7 @@
         <h2 id="accordion-collapse-heading-9">
           <button
             type="button"
-            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-t-b-0 border-gray-200 rounded-b-xl focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+            class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-t-b-0 border-gray-200 rounded-b-xl focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-9"
             aria-expanded="false"
             aria-controls="accordion-collapse-body-9"
@@ -1608,7 +1608,7 @@
               <h2 id="accordion-nested-collapse-heading-pkn-1">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 rounded-t-xl font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-pkn-1"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-pkn-1"
@@ -1652,7 +1652,7 @@
               <h2 id="accordion-nested-collapse-heading-pkn-2">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-pkn-2"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-pkn-2"
@@ -1696,7 +1696,7 @@
               <h2 id="accordion-nested-collapse-heading-pkn-3">
                 <button
                   type="button"
-                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
+                  class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-left text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
                   data-accordion-target="#accordion-nested-collapse-body-pkn-3"
                   aria-expanded="false"
                   aria-controls="accordion-nested-collapse-body-pkn-3"
