@@ -188,7 +188,7 @@
             Mata Kuliah
           </h2>
           <p
-            class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"
+            class="sm:mb-8 lg:mb-8 mb-8 mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"
           >
             Catatan Rangkuman Perkuliahan
           </p>
@@ -198,14 +198,14 @@
       <div
         id="accordion-nested-parent"
         data-accordion="collapse"
-        class="py-8 px-8 pb-32 sm:px-2 text-left"
+        class="xl:py-8 xl:px-8 xl:pb-24 pb-16 px-2 text-left"
       >
         <h2 id="accordion-collapse-heading-1">
           <button
             type="button"
             class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 rounded-t-xl focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-1"
-            aria-expanded="true"
+            aria-expanded="false"
             aria-controls="accordion-collapse-body-1"
           >
             <span>Bahasa Indonesia</span>
@@ -375,7 +375,7 @@
             type="button"
             class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-2"
-            aria-expanded="true"
+            aria-expanded="false"
             aria-controls="accordion-collapse-body-2"
           >
             <span>Intermediate Academic English</span>
@@ -547,7 +547,7 @@
             type="button"
             class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-3"
-            aria-expanded="true"
+            aria-expanded="false"
             aria-controls="accordion-collapse-body-3"
           >
             <span>Komputer dan Masyarakat</span>
@@ -719,7 +719,7 @@
             type="button"
             class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-4"
-            aria-expanded="true"
+            aria-expanded="false"
             aria-controls="accordion-collapse-body-4"
           >
             <span>Komputer Grafik</span>
@@ -891,7 +891,7 @@
             type="button"
             class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-5"
-            aria-expanded="true"
+            aria-expanded="false"
             aria-controls="accordion-collapse-body-5"
           >
             <span>Sistem Operasi</span>
@@ -1063,7 +1063,7 @@
             type="button"
             class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-6"
-            aria-expanded="true"
+            aria-expanded="false"
             aria-controls="accordion-collapse-body-6"
           >
             <span>Pengantar Aplikasi Komputer</span>
@@ -1232,7 +1232,7 @@
             type="button"
             class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-7"
-            aria-expanded="true"
+            aria-expanded="false"
             aria-controls="accordion-collapse-body-7"
           >
             <span>Komukasi Data</span>
@@ -1404,7 +1404,7 @@
             type="button"
             class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-8"
-            aria-expanded="true"
+            aria-expanded="false"
             aria-controls="accordion-collapse-body-8"
           >
             <span>Kalkulus II</span>
@@ -1573,7 +1573,7 @@
             type="button"
             class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-t-b-0 border-gray-200 rounded-b-xl focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3"
             data-accordion-target="#accordion-collapse-body-9"
-            aria-expanded="true"
+            aria-expanded="false"
             aria-controls="accordion-collapse-body-9"
           >
             <span>Pendidikan Kewarganegaraan</span>
@@ -1740,12 +1740,9 @@
       </div>
     </div>
 
-    <div
-      id="kalender"
-      class="kalender mx-auto max-w-3xl py-16 sm:py-16 lg:py-24"
-    >
+    <div id="kalender" class="kalender mx-auto max-w-3xl py-16">
       <div class="mx-auto max-w-2xl text-center">
-        <h2 class="text-base font-semibold leading-7 text-green-500">
+        <h2 class="text-base font-semibold leading-7 text-green-500 pt-8">
           Kalender
         </h2>
         <p
