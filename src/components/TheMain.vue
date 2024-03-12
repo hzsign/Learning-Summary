@@ -198,7 +198,7 @@
       <div
         id="accordion-nested-parent"
         data-accordion="collapse"
-        class="py-8 px-8 pb-32 text-left"
+        class="py-8 px-8 pb-32 sm:px-2 text-left"
       >
         <h2 id="accordion-collapse-heading-1">
           <button
