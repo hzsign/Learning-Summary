@@ -618,11 +618,65 @@
                   class="p-5 border border-b-0 border-gray-200 dark:border-gray-700"
                 >
                   <p class="text-gray-500 dark:text-gray-400">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Exercitationem suscipit molestiae voluptate ut cupiditate
-                    necessitatibus quaerat reiciendis, dolores et dicta dolor a
-                    praesentium impedit minima magnam mollitia repellat in
-                    consequuntur?
+                    Pertemuan pertama ini membahas pengenalan komputer yang
+                    meliputi definisi komputer, generasi komputer dari tahun ke
+                    tahun, dan penggolongan komputer berdasarkan beberapa
+                    kriteria.
+                  </p>
+                  <br />
+                  <p class="text-gray-500 dark:text-gray-400">
+                    Definisi Komputer Komputer adalah alat elektronik yang dapat
+                    menginput, memproses, dan menghasilkan output berupa
+                    informasi. Dalam perkembangannya, komputer tidak hanya
+                    berfungsi sebagai alat untuk menghitung, tetapi juga sebagai
+                    perlengkapan dan kebutuhan hidup karena kemajuan teknologi
+                    yang pesat. Para ahli seperti Donald. H. Sanders, Robert. H.
+                    Blissmer, dan Gordon. B. Davis memberikan pengertian yang
+                    serupa bahwa komputer adalah alat elektronik yang dapat
+                    melakukan manipulasi data dengan cepat dan tepat.
+                  </p>
+                  <br />
+                  <p class="text-gray-500 dark:text-gray-400">
+                    Generasi Komputer dari Tahun ke Tahun Komputer mengalami
+                    perkembangan dari generasi ke generasi. Generasi pertama
+                    dimulai dengan penemuan tabung hampa udara, sementara
+                    generasi terbaru (keenam) memperkenalkan konsep komputer
+                    masa depan dengan kecerdasan buatan yang lebih maju. Setiap
+                    generasi memiliki ciri khas dan teknologi yang digunakan,
+                    mulai dari penggunaan tabung hampa udara pada generasi
+                    pertama hingga penggunaan mikroprosesor pada generasi
+                    keempat.
+                  </p>
+                  <br />
+                  <p class="text-gray-500 dark:text-gray-400">
+                    Penggolongan Komputer Komputer dapat digolongkan berdasarkan
+                    beberapa kriteria, antara lain:
+                  </p>
+                  <ul class="ps-5 text-gray-500 list-disc dark:text-gray-400">
+                    <li>
+                      Berdasarkan prosesor: Mainframe, Minicomputer, dan
+                      Personal Computer (PC).
+                    </li>
+                    <li>
+                      Berdasarkan bentuk dan ukuran fisik: Tower, Desktop,
+                      Portable, Notebook, Subnotebook, dan Palmtop.
+                    </li>
+                    <li>
+                      Berdasarkan jenis data yang diolah: Analog, Digital, dan
+                      Hybrid.
+                    </li>
+                    <li>
+                      Berdasarkan penggunaannya: General Purpose Computer dan
+                      Special Purpose Computer.
+                    </li>
+                  </ul>
+                  <br />
+                  <p class="text-gray-500 dark:text-gray-400">
+                    Pengenalan komputer merupakan dasar yang penting dalam
+                    memahami teknologi informasi dan mempelajari lebih lanjut
+                    tentang komputer dan sistem komputer. Dengan memahami
+                    jenis-jenis komputer, pengguna dapat memilih komputer yang
+                    sesuai dengan kebutuhan dan memanfaatkannya secara optimal.
                   </p>
                 </div>
               </div>
@@ -662,11 +716,93 @@
                   class="p-5 border border-b-0 border-gray-200 dark:border-gray-700"
                 >
                   <p class="text-gray-500 dark:text-gray-400">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Tenetur placeat aperiam, praesentium pariatur accusamus
-                    deleniti. Optio beatae eligendi adipisci nulla eum,
-                    perferendis veniam. Fugit quisquam totam minus repellat
-                    porro sed.
+                    Pada pertemuan kedua ini, materi yang disampaikan mencakup
+                    sejarah, perkembangan, dan kritik terhadap teknologi maju,
+                    khususnya dalam konteks komputer. Berikut ini adalah
+                    rangkuman lengkap dari materi tersebut:
+                  </p>
+                  <br />
+                  <p class="font-bold text-gray-500 dark:text-gray-400">
+                    Sejarah Awal Komputer
+                  </p>
+                  <ul class="ps-5 text-gray-500 list-disc dark:text-gray-400">
+                    <li>
+                      Awal Mula: Evolusi komputer dimulai dari kebutuhan manusia
+                      untuk memahami dan memanipulasi lingkungan sekitarnya.
+                    </li>
+                    <li>
+                      Metode Sederhana: Manusia menggunakan jari untuk
+                      menghitung dan bertindak atas benda-benda material,
+                      seperti menggunakan sempoa dan tablet lilin.
+                    </li>
+                    <li>
+                      Perangkat Awal: Perangkat sederhana ini berkembang menjadi
+                      alat hitung yang lebih kompleks, seperti kalkulator roda
+                      numerik yang ditemukan oleh Blaise Pascal dan diperbaharui
+                      oleh Gottfried Wilhem von Leibniz.
+                    </li>
+                    <li>
+                      Kalkulator Mekanik: Pada tahun 1820, Charles Xavier Thomas
+                      de Colmar membuat kalkulator mekanik dengan empat fungsi
+                      dasar aritmatika.
+                    </li>
+                  </ul>
+                  <br />
+                  <p class="font-bold text-gray-500 dark:text-gray-400">
+                    Sejarah Perkembangan Komputer
+                  </p>
+                  <ul class="ps-5 text-gray-500 list-disc dark:text-gray-400">
+                    <li>
+                      Blaise Pascal: Mengembangkan kalkulator dengan prinsip
+                      roda gigi, yang dikenal sebagai Pascaline.
+                    </li>
+                    <li>
+                      Charles Babbage: Merancang mesin seperti Difference Engine
+                      dan Analytical Engine, meskipun tidak sempat diselesaikan.
+                    </li>
+                    <li>
+                      Gottfried Wilhem von Leibniz: Mengembangkan kalkulator
+                      yang dapat bersaing dengan Pascaline, bernama Stepped
+                      Reckoner.
+                    </li>
+                    <li>
+                      Herman Hollerith: Menciptakan mesin tabulator menggunakan
+                      punched card untuk memproses data statistik.
+                    </li>
+                    <li>
+                      Howard H. Aiken: Menciptakan kalkulator elektronik dengan
+                      memanfaatkan sinyal elektromagnetik.
+                    </li>
+                    <li>
+                      John William Mauchly: Menemukan Electronic Discrete
+                      Variable Automatic Computer (EDVAC), awal mula pembuatan
+                      CPU.
+                    </li>
+                  </ul>
+                  <br />
+                  <p class="font-bold text-gray-500 dark:text-gray-400">
+                    Kritik Terhadap Perkembangan Teknologi Maju
+                  </p>
+                  <ul class="ps-5 text-gray-500 list-disc dark:text-gray-400">
+                    <li>
+                      Dampak Positif: Teknologi memberikan kemudahan dalam
+                      kegiatan sehari-hari, seperti dalam pertanian dan
+                      komunikasi.
+                    </li>
+                    <li>
+                      Dampak Negatif: Ada kecenderungan manusia untuk lebih
+                      tergantung pada teknologi, yang bisa menyebabkan hilangnya
+                      rasa kebersamaan dan ketergantungan yang berlebihan.
+                    </li>
+                  </ul>
+                  <br />
+                  <p class="text-gray-500 dark:text-gray-400">
+                    Materi pertemuan kedua ini menggali sejarah dan perkembangan
+                    komputer serta memberikan wawasan tentang dampak positif dan
+                    negatif teknologi dalam kehidupan manusia. Dengan pemahaman
+                    yang mendalam tentang hal ini, diharapkan mahasiswa dapat
+                    lebih bijaksana dalam menggunakan teknologi untuk
+                    kepentingan pribadi dan sosial.
                   </p>
                 </div>
               </div>
@@ -704,9 +840,97 @@
               >
                 <div class="p-5 border border-gray-200 dark:border-gray-700">
                   <p class="mb-2 text-gray-500 dark:text-gray-400">
-                    We actually recommend using both Flowbite, Flowbite Pro, and
-                    even Tailwind UI as there is no technical reason stopping
-                    you from using the best of two worlds.
+                    Pertemuan ke-3 membahas tentang pemanfaatan komputer di
+                    masyarakat, yang merupakan topik yang relevan dan penting
+                    dalam era digital saat ini. Berikut rangkuman materi
+                    tersebut:
+                  </p>
+                  <br />
+                  <p class="font-bold text-gray-500 dark:text-gray-400">
+                    Masyarakat:
+                  </p>
+                  <ul class="ps-5 text-gray-500 list-disc dark:text-gray-400">
+                    <li>
+                      Definisi masyarakat sebagai kumpulan individu yang saling
+                      berhubungan dan bergantung satu sama lain.
+                    </li>
+                    <li>
+                      Perspektif beberapa pakar seperti Max Weber, Selo
+                      Soemardjan, dan Emile Durkheim mengenai masyarakat.
+                    </li>
+                    <li>
+                      Pentingnya interaksi dan hubungan antarindividu dalam
+                      masyarakat.
+                    </li>
+                  </ul>
+                  <br />
+                  <p class="font-bold text-gray-500 dark:text-gray-400">
+                    Dinamika Masyarakat:
+                  </p>
+                  <ul class="ps-5 text-gray-500 list-disc dark:text-gray-400">
+                    <li>
+                      Perubahan yang terjadi dalam lingkungan yang dinamis,
+                      membutuhkan adaptasi manusia.
+                    </li>
+                    <li>
+                      Contoh perubahan sosial yang terjadi dalam kehidupan
+                      sehari-hari, misalnya: <br />
+                      1. Komputer memungkinkan pekerjaan dapat dilakukan dengan
+                      cepat dan akurat, mempercepat proses produksi, pengelolaan
+                      data, dan komunikasi. <br />
+                      2. Melalui internet, komputer memungkinkan akses cepat
+                      terhadap berbagai informasi, pengetahuan, dan sumber daya
+                      pendidikan. <br />
+                      3. Komputer digunakan dalam pembelajaran jarak jauh,
+                      e-learning, dan pengajaran interaktif, memungkinkan akses
+                      pendidikan yang lebih luas dan fleksibel.
+                    </li>
+                  </ul>
+                  <br />
+                  <p class="font-bold text-gray-500 dark:text-gray-400">
+                    Pemanfaatan Komputer:
+                  </p>
+                  <ul class="ps-5 text-gray-500 list-disc dark:text-gray-400">
+                    <li>
+                      Peran dan pengaruh komputer dalam kehidupan sehari-hari
+                      manusia.
+                    </li>
+                    <li>
+                      Komputer sebagai alat pengolah data dan contoh
+                      penggunaannya.
+                    </li>
+                    <li>
+                      Manfaat komputer dalam berbagai bidang seperti kesehatan,
+                      transportasi, pendidikan, jasa pengiriman barang,
+                      konstruksi, pertahanan negara, industri, jasa, perfilman,
+                      rekaman, dan olahraga.
+                    </li>
+                  </ul>
+                  <br />
+                  <p class="font-bold text-gray-500 dark:text-gray-400">
+                    Dampak Akibat Adanya Komputer:
+                  </p>
+                  <ul class="ps-5 text-gray-500 list-disc dark:text-gray-400">
+                    <li>
+                      Dampak positif dan negatif dari keberadaan komputer.
+                    </li>
+                    <li>
+                      Isu-isu sosial yang muncul seiring dengan penggunaan
+                      teknologi komputer, seperti dampak pada pekerjaan,
+                      kesehatan, hak kebebasan pribadi, kendali yang terpusat,
+                      tanggung jawab, citra diri manusia, etika dan
+                      profesionalisme, kepentingan nasional, dan kesenjangan
+                      keahlian.
+                    </li>
+                  </ul>
+                  <br />
+                  <p class="text-gray-500 dark:text-gray-400">
+                    Materi pertemuan ke-3 ini membahas tentang pentingnya
+                    pemanfaatan komputer dalam masyarakat serta dampak yang
+                    ditimbulkannya. Dengan memahami berbagai aplikasi komputer
+                    dan isu-isu sosial yang terkait, diharapkan mahasiswa dapat
+                    menjadi lebih aware dan kompeten dalam menghadapi
+                    perkembangan teknologi di era digital ini.
                   </p>
                 </div>
               </div>
