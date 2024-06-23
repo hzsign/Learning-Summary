@@ -199,7 +199,7 @@
         id="accordion-color"
         data-accordion="collapse"
         data-active-classes="bg-blue-100 dark:bg-gray-800 text-blue-600 dark:text-white"
-        class="xl:py-8 xl:px-8 xl:pb-24 pb-16 px-2 text-left"
+        class="rangkuman xl:py-8 xl:px-8 xl:pb-24 pb-16 px-2 text-left"
       >
         <h2 id="accordion-color-heading-1">
           <button
@@ -2398,17 +2398,17 @@ onMounted(() => {
 
   ScrollReveal().reveal(".profil", {
     delay: 500,
-    reset: true,
+    reset: false,
     origin: "bottom",
   });
   ScrollReveal().reveal(".mata-kuliah", {
     delay: 500,
-    reset: true,
+    reset: false,
     origin: "bottom",
   });
   ScrollReveal().reveal(".rangkuman", {
     delay: 500,
-    reset: true,
+    reset: false,
     origin: "bottom",
   });
   ScrollReveal().reveal(".kalender", {
