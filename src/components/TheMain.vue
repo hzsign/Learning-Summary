@@ -2239,98 +2239,153 @@
               </h2>
               <p class="mb-4">
                 Etika dalam penggunaan komputer penting untuk menjaga
-                keseimbangan dalam kehidupan bersama, terutama dengan adanya
-                kemajuan teknologi digital dan sosial media.
+                keseimbangan dalam kehidupan bersama. Tanpa etika, penggunaan
+                komputer bisa menjadi semena-mena dan tidak bijak.
               </p>
             </section>
 
             <section>
               <h2 class="text-xl font-semibold mb-2">
-                Perbedaan antara Moral, Etika, dan Hukum
+                Moral, Etika, dan Hukum
               </h2>
               <p class="mb-4">
-                Dibahas mengenai perbedaan antara moral, etika, dan hukum, serta
-                pentingnya budaya dan etika dalam lingkup pekerjaan.
+                Moral adalah ajaran tentang perilaku yang sesuai dengan
+                nilai-nilai akhlak. Etika adalah standar penilaian moral. Hukum
+                adalah aturan dalam berkehidupan.
               </p>
             </section>
 
             <section>
               <h2 class="text-xl font-semibold mb-2">
-                Peran Manajer, Karyawan, dan Perusahaan
+                Perlunya Budaya dan Etika
               </h2>
               <p class="mb-4">
-                Pentingnya peran manajer, karyawan, dan seluruh perusahaan dalam
-                menjaga etika penggunaan komputer.
+                Perilaku mencerminkan budaya dan etika seseorang. Manajer
+                berperan penting dalam membangun budaya dan etika di tempat
+                kerja.
               </p>
             </section>
 
             <section>
               <h2 class="text-xl font-semibold mb-2">
-                Hak-hak Sosial Terkait Penggunaan Komputer
+                Etika dan Jasa Informasi
               </h2>
               <p class="mb-4">
-                Dibahas mengenai hak-hak sosial terkait penggunaan komputer, hak
-                paten, hak cipta, dan merek dagang.
+                CIO bertanggung jawab atas etika komputer, termasuk memahami
+                dampak teknologi komputer dan merumuskan kebijakan yang sesuai.
               </p>
             </section>
 
             <section>
               <h2 class="text-xl font-semibold mb-2">
-                Perlunya Kontrak Sosial dalam Jasa Informasi
+                Hak Sosial dan Komputer
               </h2>
               <p class="mb-4">
-                Pentingnya kontrak sosial dalam jasa informasi untuk menjaga
-                penggunaan komputer yang etis.
+                Masyarakat memiliki hak terkait penggunaan komputer, seperti hak
+                akses dan privasi.
               </p>
             </section>
 
             <section>
               <h2 class="text-xl font-semibold mb-2">
-                Contoh Kasus Pelanggaran Etika
+                Kontrak Sosial Jasa Informasi
               </h2>
               <p class="mb-4">
-                Berbagai contoh kasus pelanggaran etika dalam penggunaan
-                komputer dibahas dalam materi.
+                Layanan informasi harus mengadakan kontrak untuk menggunakan
+                komputer secara etis, termasuk menghormati privasi orang lain
+                dan melindungi kekayaan intelektual.
+              </p>
+            </section>
+
+            <section>
+              <h2 class="text-xl font-semibold mb-2">Hak Paten</h2>
+              <p class="mb-4">
+                Hak eksklusif untuk inventor atas invensi di bidang teknologi
+                untuk jangka waktu tertentu.
+              </p>
+            </section>
+
+            <section>
+              <h2 class="text-xl font-semibold mb-2">Hak Cipta</h2>
+              <p class="mb-4">
+                Hak eksklusif pencipta atas penggunaan ide atau informasi
+                tertentu.
+              </p>
+            </section>
+
+            <section>
+              <h2 class="text-xl font-semibold mb-2">Merek Dagang</h2>
+              <p class="mb-4">
+                Nama atau simbol terkait produk/jasa yang menciptakan makna
+                psikologis/asosiatif.
+              </p>
+            </section>
+
+            <section>
+              <h2 class="text-xl font-semibold mb-2">Etika Komputer</h2>
+              <p class="mb-4">
+                Nilai atau asas yang berkaitan dengan penggunaan komputer,
+                penting dalam kehidupan masyarakat.
               </p>
             </section>
 
             <section>
               <h2 class="text-xl font-semibold mb-2">
-                Pedoman Posisi Duduk yang Benar
+                Isu-Isu dalam Etika Komputer
               </h2>
               <p class="mb-4">
-                Dibahas tentang pedoman posisi duduk yang benar saat menggunakan
-                komputer untuk menghindari masalah kesehatan.
+                Misalnya, kejahatan komputer, pengaruh e-commerce, dan
+                penggunaan internet yang etis.
               </p>
             </section>
 
             <section>
               <h2 class="text-xl font-semibold mb-2">
-                Isu-isu Terkait dengan Etika Penggunaan Komputer
+                Pentingnya Etika dalam Menggunakan Internet
               </h2>
               <p class="mb-4">
-                Berbagai isu terkait dengan etika penggunaan komputer, seperti
-                pekerjaan, kesehatan, kontrol, tanggung jawab, dan kesenjangan
-                sosial, dibahas dalam materi.
+                Mematuhi aturan, menjaga privasi, dan menghindari komentar yang
+                mengandung unsur SARA.
               </p>
             </section>
 
             <section>
               <h2 class="text-xl font-semibold mb-2">
-                Langkah-langkah dalam Membuat Isu dan Masalah Sosial
+                Peran Etika dalam Perkembangan IPTEK
               </h2>
               <p class="mb-4">
-                Dibahas langkah-langkah dalam membuat isu dan masalah sosial
-                terkait penggunaan komputer dan teknologi dalam masyarakat.
+                Penting untuk menjaga nilai dan keluhuran kehidupan, bukan hanya
+                mengandalkan IPTEK.
               </p>
             </section>
 
             <section>
-              <h2 class="text-xl font-semibold mb-2">Kesimpulan</h2>
+              <h2 class="text-xl font-semibold mb-2">
+                Contoh Kasus Pelanggaran Etika Komputer
+              </h2>
               <p class="mb-4">
-                Dengan memahami etika penggunaan komputer, masyarakat dapat
-                menjaga keseimbangan dan menghindari konflik serta masalah yang
-                mungkin timbul akibat penggunaan teknologi yang tidak bijak.
+                Misalnya, pembobolan situs, penggelapan uang melalui komputer,
+                dan penyalahgunaan karya desain grafis.
+              </p>
+            </section>
+
+            <section>
+              <h2 class="text-xl font-semibold mb-2">
+                Posisi Duduk yang Benar Saat Menggunakan Komputer
+              </h2>
+              <p class="mb-4">
+                Memperhatikan posisi meja, monitor, kepala, punggung, lengan,
+                siku, dan kaki.
+              </p>
+            </section>
+            <section>
+              <h2 class="text-xl font-semibold mb-2">
+                Isu Terkait dengan Etika Penggunaan Komputer
+              </h2>
+              <p class="mb-4">
+                Termasuk dalam pekerjaan, kesehatan, pengendalian pusat,
+                tanggung jawab, citra diri, profesionalisme, kepentingan
+                nasional, kesenjangan sosial, dan kesenjangan keahlian.
               </p>
             </section>
           </div>
